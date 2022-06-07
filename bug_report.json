@@ -1,1 +1,16 @@
-There will be bug report
+{
+  "bug report":{
+   "tg_name":"",
+   "bug_id":"",
+   "title":"",
+   "severity":"",
+   "priority":"",
+   "environment":"",
+   "precondition":"",
+   "steps":{
+    "step_1":"",
+    "step_2":""
+},
+   "ar":"",
+   "er":""
+}
